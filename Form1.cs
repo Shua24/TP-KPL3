@@ -14,7 +14,7 @@ namespace TP3
         
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Halo, " + textBox1.Text;
+            label2.Text = "Halo, " + textBox1.Text;
         }
         private void label2_Click(object sender, EventArgs e)
         {
